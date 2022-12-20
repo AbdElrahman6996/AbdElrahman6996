@@ -2,7 +2,7 @@
 - 👀 I’m interested in Front End Development & Ui/UX Design
 - 🌱 I’m currently learning JavaScript
 - 📫 How to reach me ? 
-- email me : abdoamir6996@gmail.com 
+- Email me : abdelrahmanamirzain@gmail.com 
 - Looking forward to create a lot of Projects together , Cheers ;) 
 
 <!---
